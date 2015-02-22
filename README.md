@@ -1,5 +1,5 @@
 # BackupOnDrive
-This is a script to manage backup everything you want on your google drive !
+This is a script to backup everything you want on your google drive !
 
 ## Requirements
 - Drive
